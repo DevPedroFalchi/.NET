@@ -1,0 +1,7 @@
+C:\Develop\.NET\relogioApp\relogioApp\bin\Debug\relogioApp.exe.config
+C:\Develop\.NET\relogioApp\relogioApp\bin\Debug\relogioApp.exe
+C:\Develop\.NET\relogioApp\relogioApp\bin\Debug\relogioApp.pdb
+C:\Develop\.NET\relogioApp\relogioApp\obj\Debug\relogioApp.csproj.AssemblyReference.cache
+C:\Develop\.NET\relogioApp\relogioApp\obj\Debug\relogioApp.csproj.CoreCompileInputs.cache
+C:\Develop\.NET\relogioApp\relogioApp\obj\Debug\relogioApp.exe
+C:\Develop\.NET\relogioApp\relogioApp\obj\Debug\relogioApp.pdb
